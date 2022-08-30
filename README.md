@@ -412,3 +412,6 @@ GitHub поддерживает [эмодзи](https://help.github.com/articles/
 ![:sparkles:](https://assets-cdn.github.com/images/icons/emoji/unicode/2728.png ":sparkles:") ![:camel:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f42b.png ":camel:") ![:boom:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4a5.png ":boom:")
 
 Чтобы посмотреть список эмодзи, которые поддерживает данный сервис, посмотрите в [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com).
+
+
+## некий эксперемент с файлом
